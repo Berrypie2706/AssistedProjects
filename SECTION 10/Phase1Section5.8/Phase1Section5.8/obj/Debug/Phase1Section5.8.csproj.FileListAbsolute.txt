@@ -1,0 +1,8 @@
+D:\Assisted Projects\SECTION 10\Phase1Section5.8\Phase1Section5.8\bin\Debug\Phase1Section5.8.exe.config
+D:\Assisted Projects\SECTION 10\Phase1Section5.8\Phase1Section5.8\bin\Debug\Phase1Section5.8.exe
+D:\Assisted Projects\SECTION 10\Phase1Section5.8\Phase1Section5.8\bin\Debug\Phase1Section5.8.pdb
+D:\Assisted Projects\SECTION 10\Phase1Section5.8\Phase1Section5.8\obj\Debug\Phase1Section5.8.csproj.AssemblyReference.cache
+D:\Assisted Projects\SECTION 10\Phase1Section5.8\Phase1Section5.8\obj\Debug\Phase1Section5.8.csproj.SuggestedBindingRedirects.cache
+D:\Assisted Projects\SECTION 10\Phase1Section5.8\Phase1Section5.8\obj\Debug\Phase1Section5.8.csproj.CoreCompileInputs.cache
+D:\Assisted Projects\SECTION 10\Phase1Section5.8\Phase1Section5.8\obj\Debug\Phase1Section5.8.exe
+D:\Assisted Projects\SECTION 10\Phase1Section5.8\Phase1Section5.8\obj\Debug\Phase1Section5.8.pdb

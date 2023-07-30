@@ -1,0 +1,8 @@
+D:\Assisted Projects\SECTION 10\Phase1Section5.12\Phase1Section5.12\bin\Debug\Phase1Section5.12.exe.config
+D:\Assisted Projects\SECTION 10\Phase1Section5.12\Phase1Section5.12\bin\Debug\Phase1Section5.12.exe
+D:\Assisted Projects\SECTION 10\Phase1Section5.12\Phase1Section5.12\bin\Debug\Phase1Section5.12.pdb
+D:\Assisted Projects\SECTION 10\Phase1Section5.12\Phase1Section5.12\obj\Debug\Phase1Section5.12.csproj.AssemblyReference.cache
+D:\Assisted Projects\SECTION 10\Phase1Section5.12\Phase1Section5.12\obj\Debug\Phase1Section5.12.csproj.SuggestedBindingRedirects.cache
+D:\Assisted Projects\SECTION 10\Phase1Section5.12\Phase1Section5.12\obj\Debug\Phase1Section5.12.csproj.CoreCompileInputs.cache
+D:\Assisted Projects\SECTION 10\Phase1Section5.12\Phase1Section5.12\obj\Debug\Phase1Section5.12.exe
+D:\Assisted Projects\SECTION 10\Phase1Section5.12\Phase1Section5.12\obj\Debug\Phase1Section5.12.pdb
